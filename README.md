@@ -10,8 +10,9 @@ Nim-Sum – The cumulative XOR value of the number of coins/stones in each piles
 
 In our solution prediction made before game starts.
 
-Based on two factors - The player who starts first.
-                     - The initial configuration of the piles/heaps.
+Based on two factors 
+- The player who starts first.
+- The initial configuration of the piles/heaps.
 
 ## How to Run Code:
 1. Download the code in the file under the name GameofNim.cs.
